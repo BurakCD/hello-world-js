@@ -27,13 +27,14 @@
 
 ## Kurulumlar
 Kurulum için gerekli olan toolların kurulumunu içeren shell scriptleri aşağıdaki Github Reposunda bulunmaktadır.
+
+[Bağlantı](https://github.com/BurakCD/packer-and-scripts)
+
 Sunucular Ubuntu server live - 22.04 LTS
 JDK sürümü:     jdk-17jdk
-Jenkins sürümü: jenkins-latest(2.414.2)
+Jenkins sürümü: jenkins-latest(2.414.2) 
 Docker sürümü:  docker-latest(24.0.6)
 Docker-registry sürümü: registry:2
-
-
 
 Docker registry ise docker-compose dosyası ile kurulabilir.
 gerekli kurulum ve oluşturmalar yukarıda verilen sh dosyalarında yer almaktadır. 
