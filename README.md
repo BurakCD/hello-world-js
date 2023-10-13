@@ -1,18 +1,18 @@
 # Local DevOps Case
 
-SERVER NAMES  
+## SERVER NAMES  
 * Server-1  
 * Server-2  
 * Server-3  
-NOTES  
+## NOTES  
 * All below operations should be done as IaC (Infrastructure as Code)  
-TOOLS  
+## TOOLS  
 * Virtualbox  
 * Linux operation system  
 * Kubernetes  
 * Jenkins  
 * Docker  
-STEPS  
+## STEPS  
 * Install virtualbox in your local PC.  
 * Create 3 VM with any linux operation system in virtualbox.  
 * Kubernetes cluster Installation with 1 master and 1 node (You can use the Server-1 and Server-2)  
